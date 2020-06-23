@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">studen</string>
+    <string name="title_home">Home</string>
+    <string name="title_save">Save</string>
+    <string name="title_display">Display</string>
+
+
+    <string name="id_studen">นักเรียน</string>
+    <string name="major">สาขา</string>
+    <string name="enterdata">Enterdata</string>
+    <string name="name_lastname">ชื่อ-สกุล</string>
+    <string name="sex">เพศ</string>
+    <string name="save">บันทึก</string>
+</resources>
